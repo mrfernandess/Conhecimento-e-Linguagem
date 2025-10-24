@@ -7,7 +7,7 @@ Entrez.email = "conhecimentolinguagem@gmail.com"
 term = '("disease"[MeSH Terms]) AND ("symptom"[Title/Abstract] OR "treatment"[Title/Abstract]) AND ("2020"[Date - Publication] : "2025"[Date - Publication])'
 
 
-handle = Entrez.esearch(db="pubmed", term=term, retmax=100000)
+handle = Entrez.esearch(db="pubmed", term=term, retmax=100)
 record = Entrez.read(handle)
 ids = record["IdList"]
 
@@ -19,5 +19,9 @@ for pmid in ids:
 
 df = pd.DataFrame(articles)
 
+# Save the articles to a CSV file
+df.to_csv("articles.csv", index=False)
+
 print(df.head()) 
 print(f"Total articles fetched: {len(df)}")
+
