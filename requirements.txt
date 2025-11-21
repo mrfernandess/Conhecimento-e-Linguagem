@@ -1,0 +1,32 @@
+# Core dependencies
+requests>=2.31.0
+rdflib>=7.0.0
+# REQUIRED for Bio.Entrez (PubMed fetching)
+biopython
+spacy>=3.7.0
+scispacy>=0.5.1
+
+# REQUIRED for data manipulation
+pandas>=2.0.0
+
+# For BioBERT/Transformers (NER and Relation Extraction)
+transformers>=4.30.0
+torch>=2.0.0
+
+# General utilities (recommended)
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# For Neo4j integration (optional)
+py2neo>=2021.2.3
+
+# --- REQUIRED SPACY/SCISPACy MODEL INSTALLATION ---
+# The notebook requires two specific scispacy models for Named Entity Recognition (NER)
+# and Entity Linking/general biomedical processing.
+# These must be installed separately by running the following commands:
+
+# 1. Named Entity Recognition (Chemicals/Diseases)
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_ner_bc5cdr_md-0.5.1.tar.gz
+
+# 2. General Biomedical Model (Small core pipeline)
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_core_sci_sm-0.5.1.tar.gz
