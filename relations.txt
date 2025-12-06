@@ -1,0 +1,867 @@
+Article 1
+  pancreatic lipase --[pancreatic lipase causes necrosis (Ensemble_Veto (BERT: 0.44))]--> necrosis
+Article 2
+  lar interventions --[lar interventions treats carotid blowout syndrome (Ensemble_Veto (BERT: 0.97))]--> carotid blowout syndrome
+  trache --[trache is a side effect of pharyngocutaneous fistula (Ensemble_Veto (BERT: 0.45))]--> pharyngocutaneous fistula
+  fist --[fist is a symptom of pharyngocutaneous fistula (Ensemble_Veto (BERT: 1.00))]--> pharyngocutaneous fistula
+  lar interventions --[lar interventions treats bleeding (Ensemble_Veto (BERT: 1.00))]--> bleeding
+Article 3
+No relations found.
+Article 4
+  anterior resection --[anterior resection is a side effect of low anterior resection syndrome (Ensemble_Veto (BERT: 0.95))]--> low anterior resection syndrome
+  anterior resection --[anterior resection is a side effect of cancer (Ensemble_Veto (BERT: 0.99))]--> cancer
+  anterior resection --[anterior resection is a side effect of low anterior resection syndrome (Ensemble_Veto (BERT: 0.85))]--> low anterior resection syndrome
+  tal cancer --[tal cancer is a side effect of cancer (Ensemble_Veto (BERT: 0.70))]--> cancer
+  tal cancer --[tal cancer treats cancer (Ensemble_Veto (BERT: 0.38))]--> cancer
+Article 5
+  galactose --[galactose causes allergic disease (Ensemble_Veto (BERT: 0.90))]--> allergic disease
+  galactose --[galactose causes alpha-gal syndrome (Ensemble_Veto (BERT: 0.97))]--> alpha-gal syndrome
+  galactose --[galactose causes hypersensitivity (Ensemble_Veto (BERT: 0.64))]--> hypersensitivity
+  galactose --[galactose causes hypersensitivity responses (Ensemble_Veto (BERT: 0.55))]--> hypersensitivity responses
+  hypersensitivity responses --[hypersensitivity responses is a symptom of allergic disease (Ensemble_Veto (BERT: 1.00))]--> allergic disease
+  hypersensitivity responses --[hypersensitivity responses is a symptom of alpha-gal syndrome (Ensemble_Veto (BERT: 1.00))]--> alpha-gal syndrome
+  hypersensitivity responses --[hypersensitivity responses is a symptom of hypersensitivity (Ensemble_Veto (BERT: 1.00))]--> hypersensitivity
+Article 6
+  knee --[knee is a symptom of microtrauma (Ensemble_Veto (BERT: 1.00))]--> microtrauma
+  knee --[knee is a symptom of movement impairment of the knee (Ensemble_Veto (BERT: 1.00))]--> movement impairment of the knee
+  movement impairment --[movement impairment is a symptom of microtrauma (Ensemble_Veto (BERT: 1.00))]--> microtrauma
+  movement impairment --[movement impairment is a symptom of movement impairment of the knee (Ensemble_Veto (BERT: 1.00))]--> movement impairment of the knee
+  knee --[knee is a symptom of disability (Ensemble_Veto (BERT: 1.00))]--> disability
+  knee --[knee is a symptom of knee mobility (Ensemble_Veto (BERT: 1.00))]--> knee mobility
+  pain --[pain is a symptom of disability (Ensemble_Veto (BERT: 1.00))]--> disability
+  pain --[pain is a symptom of knee mobility (Ensemble_Veto (BERT: 1.00))]--> knee mobility
+  knee --[knee is a symptom of disability (Ensemble_Veto (BERT: 1.00))]--> disability
+  knee --[knee is a symptom of knee mobility (Ensemble_Veto (BERT: 1.00))]--> knee mobility
+  pain --[pain is a symptom of disability (Ensemble_Veto (BERT: 0.99))]--> disability
+  pain --[pain is a symptom of knee mobility (Ensemble_Veto (BERT: 1.00))]--> knee mobility
+Article 7
+  pain --[pain is a symptom of low back pain (Ensemble_Veto (BERT: 1.00))]--> low back pain
+  pain --[pain is a symptom of vertebra syndrome (Ensemble_Veto (BERT: 1.00))]--> vertebra syndrome
+  pain --[pain is a symptom of low back pain (Ensemble_Veto (BERT: 1.00))]--> low back pain
+  displacement --[displacement is a symptom of edema (Ensemble_Veto (BERT: 1.00))]--> edema
+  displacement --[displacement is not related spondylolisthesis (Ensemble_Veto (BERT: 1.00))]--> spondylolisthesis
+  displacement --[displacement is a symptom of synovitis (Ensemble_Veto (BERT: 0.53))]--> synovitis
+  itis --[itis is a symptom of edema (Ensemble_Veto (BERT: 1.00))]--> edema
+  itis --[itis is a symptom of facet hypertrophy (Ensemble_Veto (BERT: 0.96))]--> facet hypertrophy
+  itis --[itis is not related spondylolisthesis (Ensemble_Veto (BERT: 1.00))]--> spondylolisthesis
+  itis --[itis is a symptom of synovitis (Ensemble_Veto (BERT: 0.99))]--> synovitis
+  thickening --[thickening is a symptom of edema (Ensemble_Veto (BERT: 1.00))]--> edema
+  thickening --[thickening is a symptom of facet hypertrophy (Ensemble_Veto (BERT: 0.88))]--> facet hypertrophy
+  thickening --[thickening is not related spondylolisthesis (Ensemble_Veto (BERT: 1.00))]--> spondylolisthesis
+  thickening --[thickening is a symptom of synovitis (Ensemble_Veto (BERT: 0.99))]--> synovitis
+Article 8
+  pain --[pain is a symptom of acute aortic syndromes (Ensemble_Veto (BERT: 1.00))]--> acute aortic syndromes
+  pain --[pain is a symptom of acute aortic syndromes (Ensemble_Veto (BERT: 1.00))]--> acute aortic syndromes
+  pain --[pain is a symptom of gastrointestinal pain (Ensemble_Veto (BERT: 1.00))]--> gastrointestinal pain
+  pain --[pain is a symptom of musculoskeletal or visceral disorders (Ensemble_Veto (BERT: 1.00))]--> musculoskeletal or visceral disorders
+  pain --[pain is a symptom of thoracoabdominal aortic aneurysm (Ensemble_Veto (BERT: 1.00))]--> thoracoabdominal aortic aneurysm
+  pain --[pain is a symptom of vertebrogenic back pain (Ensemble_Veto (BERT: 1.00))]--> vertebrogenic back pain
+  pain --[pain is a symptom of vertebrogenic syndrome (Ensemble_Veto (BERT: 0.99))]--> vertebrogenic syndrome
+  extracorporeal membrane oxygenation support --[extracorporeal membrane oxygenation support treats hemorrhage (Ensemble_Veto (BERT: 0.49))]--> hemorrhage
+  surgery --[surgery treats hemorrhage (Ensemble_Veto (BERT: 0.43))]--> hemorrhage
+  pain --[pain is a symptom of acute aortic syndromes (Ensemble_Veto (BERT: 1.00))]--> acute aortic syndromes
+Article 9
+  iron --[iron is a side effect of hiatal hernias (Ensemble_Veto (BERT: 0.98))]--> hiatal hernias
+  iron --[iron is a side effect of iron deficiency anemia (Ensemble_Veto (BERT: 0.73))]--> iron deficiency anemia
+  iron --[iron is a side effect of iron deficiency anemia (Ensemble_Veto (BERT: 0.82))]--> iron deficiency anemia
+Article 10
+  pain --[pain is a symptom of crowned dens syndrome (Ensemble_Veto (BERT: 1.00))]--> crowned dens syndrome
+  pain --[pain is a symptom of chronic neck pain (Ensemble_Veto (BERT: 1.00))]--> chronic neck pain
+  pain --[pain is a symptom of herniation (Ensemble_Veto (BERT: 0.95))]--> herniation
+  pain --[pain is a symptom of degenerative cervical spondylosis (Ensemble_Veto (BERT: 1.00))]--> degenerative cervical spondylosis
+  pain --[pain is a symptom of fracture (Ensemble_Veto (BERT: 0.94))]--> fracture
+  pain --[pain is a symptom of tumors (Ensemble_Veto (BERT: 1.00))]--> tumors
+  calcium --[calcium is a symptom of knee joints (Ensemble_Veto (BERT: 1.00))]--> knee joints
+  celecoxib --[celecoxib treats fever (Ensemble_Veto (BERT: 0.88))]--> fever
+  celecoxib --[celecoxib treats pain (Ensemble_Veto (BERT: 0.98))]--> pain
+  colchicine --[colchicine treats pain (Ensemble_Veto (BERT: 0.35))]--> pain
+  pain --[pain is a symptom of acute pain (Ensemble_Veto (BERT: 1.00))]--> acute pain
+Article 11
+  headache --[headache is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  neurological deficit --[neurological deficit is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  headache --[headache is a symptom of primary headache (Ensemble_Veto (BERT: 1.00))]--> primary headache
+  neurological deficit --[neurological deficit is a symptom of primary headache (Ensemble_Veto (BERT: 1.00))]--> primary headache
+  esthesia --[esthesia is a symptom of aphasia (Ensemble_Veto (BERT: 1.00))]--> aphasia
+  esthesia --[esthesia is a symptom of asthenia (Ensemble_Veto (BERT: 1.00))]--> asthenia
+  esthesia --[esthesia is a symptom of dysarthria (Ensemble_Veto (BERT: 1.00))]--> dysarthria
+  esthesia --[esthesia is a symptom of handl syndrome (Ensemble_Veto (BERT: 1.00))]--> handl syndrome
+  esthesia --[esthesia is a symptom of paresthesia (Ensemble_Veto (BERT: 1.00))]--> paresthesia
+  headache --[headache is a symptom of aphasia (Ensemble_Veto (BERT: 1.00))]--> aphasia
+  headache --[headache is a symptom of asthenia (Ensemble_Veto (BERT: 1.00))]--> asthenia
+  headache --[headache is a symptom of dysarthria (Ensemble_Veto (BERT: 0.97))]--> dysarthria
+  headache --[headache is a symptom of handl syndrome (Ensemble_Veto (BERT: 1.00))]--> handl syndrome
+  headache --[headache is a symptom of paresthesia (Ensemble_Veto (BERT: 1.00))]--> paresthesia
+  nausea --[nausea is a symptom of aphasia (Ensemble_Veto (BERT: 1.00))]--> aphasia
+  nausea --[nausea is a symptom of asthenia (Ensemble_Veto (BERT: 1.00))]--> asthenia
+  nausea --[nausea is a symptom of dysarthria (Ensemble_Veto (BERT: 1.00))]--> dysarthria
+  nausea --[nausea is a symptom of handl syndrome (Ensemble_Veto (BERT: 1.00))]--> handl syndrome
+  nausea --[nausea is a symptom of paresthesia (Ensemble_Veto (BERT: 1.00))]--> paresthesia
+  orrh --[orrh is a symptom of proteinorrhachia (Ensemble_Veto (BERT: 1.00))]--> proteinorrhachia
+  raine --[raine is a symptom of hemiplegic migraine (Ensemble_Veto (BERT: 1.00))]--> hemiplegic migraine
+  raine --[raine is not related stroke (Ensemble_Veto (BERT: 0.53))]--> stroke
+  raine --[raine is not related tumors (Ensemble_Veto (BERT: 0.56))]--> tumors
+Article 12
+  tumor --[tumor is a symptom of trousseau syndrome (Ensemble_Veto (BERT: 1.00))]--> trousseau syndrome
+Article 13
+No relations found.
+Article 14
+  cognitive impairment --[cognitive impairment is a symptom of clippers syndrome (Ensemble_Veto (BERT: 1.00))]--> clippers syndrome
+  cognitive impairment --[cognitive impairment is a symptom of gait and cognitive impairment (Ensemble_Veto (BERT: 1.00))]--> gait and cognitive impairment
+  behavioral changes --[behavioral changes is a symptom of cognitive dysfunction (Ensemble_Veto (BERT: 1.00))]--> cognitive dysfunction
+  behavioral changes --[behavioral changes is a symptom of gait imbalance (Ensemble_Veto (BERT: 1.00))]--> gait imbalance
+  cognitive deficit --[cognitive deficit is a symptom of cerebellar dysmetria (Ensemble_Veto (BERT: 1.00))]--> cerebellar dysmetria
+  cognitive deficit --[cognitive deficit is a symptom of cognitive deficits (Ensemble_Veto (BERT: 1.00))]--> cognitive deficits
+  cognitive deficit --[cognitive deficit is a symptom of wide-based unsteady gait (Ensemble_Veto (BERT: 1.00))]--> wide-based unsteady gait
+  neurological --[neurological is a symptom of cerebellar dysmetria (Ensemble_Veto (BERT: 1.00))]--> cerebellar dysmetria
+  neurological --[neurological is a symptom of cognitive deficits (Ensemble_Veto (BERT: 1.00))]--> cognitive deficits
+  neurological --[neurological is a symptom of wide-based unsteady gait (Ensemble_Veto (BERT: 1.00))]--> wide-based unsteady gait
+  cytosis --[cytosis is a symptom of pleocytosis (Ensemble_Veto (BERT: 1.00))]--> pleocytosis
+  contrast enhancement --[contrast enhancement is a symptom of clippers syndrome (Ensemble_Veto (BERT: 1.00))]--> clippers syndrome
+  lesions --[lesions is a symptom of clippers syndrome (Ensemble_Veto (BERT: 1.00))]--> clippers syndrome
+  methylprednisolone --[methylprednisolone treats cognitive deficits (Ensemble_Veto (BERT: 0.72))]--> cognitive deficits
+  methylprednisolone --[methylprednisolone treats cognitive deficit (Ensemble_Veto (BERT: 0.74))]--> cognitive deficit
+  methylprednisolone --[methylprednisolone treats gait disturbance (Ensemble_Veto (BERT: 0.99))]--> gait disturbance
+  cognitive deficit --[cognitive deficit is a symptom of cognitive deficits (Ensemble_Veto (BERT: 1.00))]--> cognitive deficits
+  gait disturbance --[gait disturbance is a symptom of cognitive deficits (Ensemble_Veto (BERT: 1.00))]--> cognitive deficits
+Article 15
+No relations found.
+Article 16
+  fetal --[fetal is a symptom of ballantyne syndrome (Ensemble_Veto (BERT: 1.00))]--> ballantyne syndrome
+  hydrops --[hydrops is a symptom of ballantyne syndrome (Ensemble_Veto (BERT: 1.00))]--> ballantyne syndrome
+  ine blood transfusion --[ine blood transfusion is a side effect of intrauterine blood transfusions (Ensemble_Veto (BERT: 0.95))]--> intrauterine blood transfusions
+  intra --[intra treats anemia (Ensemble_Veto (BERT: 0.77))]--> anemia
+  anemia --[anemia is a symptom of intrauterine blood transfusions (Ensemble_Veto (BERT: 1.00))]--> intrauterine blood transfusions
+  fetal --[fetal is a symptom of intrauterine blood transfusions (Ensemble_Veto (BERT: 1.00))]--> intrauterine blood transfusions
+  hydrops --[hydrops is a symptom of intrauterine blood transfusions (Ensemble_Veto (BERT: 1.00))]--> intrauterine blood transfusions
+  cesarean section --[cesarean section treats preterm premature rupture (Ensemble_Veto (BERT: 0.39))]--> preterm premature rupture
+Article 17
+  manifestation --[manifestation is a symptom of auditory and vestibular disorders (Ensemble_Veto (BERT: 1.00))]--> auditory and vestibular disorders
+  cognitive impairment --[cognitive impairment is a symptom of cognitive impairments (Ensemble_Veto (BERT: 1.00))]--> cognitive impairments
+  headache --[headache is a symptom of cognitive impairments (Ensemble_Veto (BERT: 1.00))]--> cognitive impairments
+Article 18
+  heat --[heat is a symptom of blood-heat (Ensemble_Veto (BERT: 1.00))]--> blood-heat
+  heat --[heat is a symptom of psoriasis (Ensemble_Veto (BERT: 1.00))]--> psoriasis
+  heat --[heat is a symptom of blood-heat (Ensemble_Veto (BERT: 1.00))]--> blood-heat
+  heat --[heat is a symptom of inflammation (Ensemble_Veto (BERT: 1.00))]--> inflammation
+  heat --[heat is a symptom of psoriasis (Ensemble_Veto (BERT: 1.00))]--> psoriasis
+  heat --[heat is a symptom of blood-heat (Ensemble_Veto (BERT: 1.00))]--> blood-heat
+  heat --[heat is a symptom of tcm syndrome (Ensemble_Veto (BERT: 1.00))]--> tcm syndrome
+  lesions --[lesions is a symptom of pruritus (Ensemble_Veto (BERT: 1.00))]--> pruritus
+Article 19
+  osteotomy --[osteotomy treats painful (Ensemble_Veto (BERT: 0.98))]--> painful
+  reduction --[reduction treats trochanteric reduction (Ensemble_Veto (BERT: 0.54))]--> trochanteric reduction
+  reduction --[reduction treats painful (Ensemble_Veto (BERT: 0.98))]--> painful
+  painful --[painful is a symptom of trochanteric reduction (Ensemble_Veto (BERT: 1.00))]--> trochanteric reduction
+  gold --[gold treats gtps (Ensemble_Veto (BERT: 0.99))]--> gtps
+  gold --[gold treats trochanteric pain (Ensemble_Veto (BERT: 0.97))]--> trochanteric pain
+  osteotomy --[osteotomy treats gtps (Ensemble_Veto (BERT: 0.95))]--> gtps
+  complications --[complications is a symptom of fracture (Ensemble_Veto (BERT: 1.00))]--> fracture
+  complications --[complications is a symptom of pseudarthrosis (Ensemble_Veto (BERT: 0.99))]--> pseudarthrosis
+Article 20
+  percutaneous --[percutaneous treats platypnea-orthodeoxia syndrome (Ensemble_Veto (BERT: 0.49))]--> platypnea-orthodeoxia syndrome
+  oxygen --[oxygen is a side effect of dyspnea (Ensemble_Veto (BERT: 0.79))]--> dyspnea
+  oxygen --[oxygen is a side effect of platypnea-orthodeoxia syndrome (Ensemble_Veto (BERT: 0.99))]--> platypnea-orthodeoxia syndrome
+  oxygen --[oxygen is a side effect of oxygen desaturation (Ensemble_Veto (BERT: 0.83))]--> oxygen desaturation
+  oxygen --[oxygen is a side effect of positional dyspnea (Ensemble_Veto (BERT: 0.73))]--> positional dyspnea
+  oxygen desaturation --[oxygen desaturation is a symptom of dyspnea (Ensemble_Veto (BERT: 1.00))]--> dyspnea
+  oxygen desaturation --[oxygen desaturation is a symptom of platypnea-orthodeoxia syndrome (Ensemble_Veto (BERT: 1.00))]--> platypnea-orthodeoxia syndrome
+  positional dyspnea --[positional dyspnea is a symptom of dyspnea (Ensemble_Veto (BERT: 1.00))]--> dyspnea
+  positional dyspnea --[positional dyspnea is a symptom of platypnea-orthodeoxia syndrome (Ensemble_Veto (BERT: 1.00))]--> platypnea-orthodeoxia syndrome
+  oxygen --[oxygen is a side effect of patent foramen ovale (Ensemble_Veto (BERT: 0.86))]--> patent foramen ovale
+  percutaneous --[percutaneous treats patent foramen ovale (Ensemble_Veto (BERT: 0.51))]--> patent foramen ovale
+Article 21
+  dissection --[dissection treats lesions (Ensemble_Veto (BERT: 1.00))]--> lesions
+  same --[same treats colorectal surgeon (Ensemble_Veto (BERT: 0.54))]--> colorectal surgeon
+Article 22
+  metabolic disturbances --[metabolic disturbances is a symptom of thyroid dysfunction (Ensemble_Veto (BERT: 1.00))]--> thyroid dysfunction
+  hyper --[hyper is a symptom of muscular weakness (Ensemble_Veto (BERT: 1.00))]--> muscular weakness
+  ness --[ness is a symptom of muscular weakness (Ensemble_Veto (BERT: 1.00))]--> muscular weakness
+  trophy --[trophy is a symptom of muscular weakness (Ensemble_Veto (BERT: 1.00))]--> muscular weakness
+  enlarged --[enlarged is a symptom of hoffman syndrome (Ensemble_Veto (BERT: 1.00))]--> hoffman syndrome
+  enlarged --[enlarged is a symptom of hypothyroid myopathy (Ensemble_Veto (BERT: 1.00))]--> hypothyroid myopathy
+  enlarged --[enlarged is a symptom of muscle weakness (Ensemble_Veto (BERT: 1.00))]--> muscle weakness
+  ness --[ness is a symptom of hoffman syndrome (Ensemble_Veto (BERT: 1.00))]--> hoffman syndrome
+  ness --[ness is a symptom of hypothyroid myopathy (Ensemble_Veto (BERT: 1.00))]--> hypothyroid myopathy
+  ness --[ness is a symptom of muscle weakness (Ensemble_Veto (BERT: 1.00))]--> muscle weakness
+Article 23
+  contraction --[contraction is a symptom of cardiac disorder (Ensemble_Veto (BERT: 1.00))]--> cardiac disorder
+  contraction --[contraction is a symptom of multifocal ectopic purkinje-related premature contractions (Ensemble_Veto (BERT: 1.00))]--> multifocal ectopic purkinje-related premature contractions
+  palpitations --[palpitations is a symptom of a familial predisposition (Ensemble_Veto (BERT: 1.00))]--> a familial predisposition
+  palpitations --[palpitations is a symptom of arrhythmogenic cardiac diseases (Ensemble_Veto (BERT: 1.00))]--> arrhythmogenic cardiac diseases
+  palpitations --[palpitations is a symptom of syncope (Ensemble_Veto (BERT: 1.00))]--> syncope
+  sync --[sync is a symptom of a familial predisposition (Ensemble_Veto (BERT: 1.00))]--> a familial predisposition
+  sync --[sync is a symptom of arrhythmogenic cardiac diseases (Ensemble_Veto (BERT: 1.00))]--> arrhythmogenic cardiac diseases
+  sync --[sync is a symptom of syncope (Ensemble_Veto (BERT: 1.00))]--> syncope
+  contraction --[contraction is a symptom of premature ventricular contractions (Ensemble_Veto (BERT: 1.00))]--> premature ventricular contractions
+  contraction --[contraction is a symptom of ventricular arrhythmias (Ensemble_Veto (BERT: 1.00))]--> ventricular arrhythmias
+  premature vent --[premature vent is a symptom of premature ventricular contractions (Ensemble_Veto (BERT: 1.00))]--> premature ventricular contractions
+  premature vent --[premature vent is a symptom of ventricular arrhythmias (Ensemble_Veto (BERT: 1.00))]--> ventricular arrhythmias
+  contraction --[contraction is a symptom of left ventricular dilation (Ensemble_Veto (BERT: 1.00))]--> left ventricular dilation
+  contraction --[contraction is a symptom of premature ventricular contraction-induced cardiomyopathy (Ensemble_Veto (BERT: 1.00))]--> premature ventricular contraction-induced cardiomyopathy
+  contraction --[contraction is a symptom of systolic dysfunction (Ensemble_Veto (BERT: 1.00))]--> systolic dysfunction
+  premature vent --[premature vent is a symptom of left ventricular dilation (Ensemble_Veto (BERT: 1.00))]--> left ventricular dilation
+  premature vent --[premature vent is a symptom of premature ventricular contraction-induced cardiomyopathy (Ensemble_Veto (BERT: 1.00))]--> premature ventricular contraction-induced cardiomyopathy
+  premature vent --[premature vent is a symptom of systolic dysfunction (Ensemble_Veto (BERT: 1.00))]--> systolic dysfunction
+  contraction --[contraction is a symptom of multifocal ectopic purkinje-related premature contractions (Ensemble_Veto (BERT: 1.00))]--> multifocal ectopic purkinje-related premature contractions
+  flecainide --[flecainide treats ventricular arrhythmias (Ensemble_Veto (BERT: 0.86))]--> ventricular arrhythmias
+  quinidine --[quinidine treats ventricular arrhythmias (Ensemble_Veto (BERT: 0.73))]--> ventricular arrhythmias
+Article 24
+No relations found.
+Article 25
+  hemol --[hemol is a symptom of hemolysis (Ensemble_Veto (BERT: 1.00))]--> hemolysis
+  hemol --[hemol is a symptom of passenger lymphocyte syndrome (Ensemble_Veto (BERT: 1.00))]--> passenger lymphocyte syndrome
+  transplant --[transplant causes passenger lymphocyte syndrome (Ensemble_Veto (BERT: 0.46))]--> passenger lymphocyte syndrome
+  hemol --[hemol is a symptom of hemolytic anemia (Ensemble_Veto (BERT: 1.00))]--> hemolytic anemia
+  hemol --[hemol is a symptom of passenger lymphocyte syndrome (Ensemble_Veto (BERT: 1.00))]--> passenger lymphocyte syndrome
+Article 26
+No relations found.
+Article 27
+  speech --[speech is a symptom of foreign accent syndrome (Ensemble_Veto (BERT: 1.00))]--> foreign accent syndrome
+  speech --[speech is a symptom of speech disorder (Ensemble_Veto (BERT: 1.00))]--> speech disorder
+  speech --[speech is a symptom of speech disorder (Ensemble_Veto (BERT: 1.00))]--> speech disorder
+Article 28
+  lack of appetite --[lack of appetite is a symptom of anxiety (Ensemble_Veto (BERT: 0.96))]--> anxiety
+  lack of appetite --[lack of appetite is a symptom of depression (Ensemble_Veto (BERT: 0.99))]--> depression
+  lack of appetite --[lack of appetite is a symptom of tiredness (Ensemble_Veto (BERT: 0.99))]--> tiredness
+  nausea --[nausea is a symptom of anxiety (Ensemble_Veto (BERT: 0.55))]--> anxiety
+  nausea --[nausea is a symptom of depression (Ensemble_Veto (BERT: 0.92))]--> depression
+  nausea --[nausea is a symptom of tiredness (Ensemble_Veto (BERT: 0.70))]--> tiredness
+  pain --[pain is a symptom of anxiety (Ensemble_Veto (BERT: 0.88))]--> anxiety
+  pain --[pain is a symptom of depression (Ensemble_Veto (BERT: 1.00))]--> depression
+  pain --[pain is a symptom of tiredness (Ensemble_Veto (BERT: 1.00))]--> tiredness
+  well --[well is a symptom of anxiety (Ensemble_Veto (BERT: 0.99))]--> anxiety
+  well --[well is a symptom of depression (Ensemble_Veto (BERT: 1.00))]--> depression
+  well --[well is a symptom of tiredness (Ensemble_Veto (BERT: 1.00))]--> tiredness
+  well --[well is a symptom of depression (Ensemble_Veto (BERT: 1.00))]--> depression
+  well --[well is a symptom of tiredness (Ensemble_Veto (BERT: 1.00))]--> tiredness
+Article 29
+  pathologies --[pathologies is a symptom of hip-spine syndrome (Ensemble_Veto (BERT: 1.00))]--> hip-spine syndrome
+Article 30
+  balance --[balance is a side effect of cardiovascular diseases (Ensemble_Veto (BERT: 0.46))]--> cardiovascular diseases
+  balance --[balance is a side effect of cvds (Ensemble_Veto (BERT: 0.61))]--> cvds
+  balance --[balance is a side effect of ndds (Ensemble_Veto (BERT: 0.81))]--> ndds
+  balance --[balance is a side effect of neurodegenerative diseases (Ensemble_Veto (BERT: 0.93))]--> neurodegenerative diseases
+  impaired --[impaired is a symptom of cvds (Ensemble_Veto (BERT: 1.00))]--> cvds
+  impaired --[impaired is a symptom of heart failure (Ensemble_Veto (BERT: 1.00))]--> heart failure
+  impaired --[impaired is a symptom of ndds (Ensemble_Veto (BERT: 1.00))]--> ndds
+  impaired --[impaired is a symptom of neuronal death (Ensemble_Veto (BERT: 1.00))]--> neuronal death
+  shifts --[shifts is a symptom of cancer (Ensemble_Veto (BERT: 1.00))]--> cancer
+  shifts --[shifts is a symptom of tumor (Ensemble_Veto (BERT: 1.00))]--> tumor
+  pies --[pies treats cancer (Ensemble_Veto (BERT: 0.40))]--> cancer
+Article 31
+  nausea --[nausea is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  nausea --[nausea is a symptom of hematemesis (Ensemble_Veto (BERT: 1.00))]--> hematemesis
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of hematemesis (Ensemble_Veto (BERT: 1.00))]--> hematemesis
+  emia --[emia is a symptom of anemia (Ensemble_Veto (BERT: 0.95))]--> anemia
+  arterial embolization --[arterial embolization treats retroperitoneal hemorrhage (Ensemble_Veto (BERT: 0.48))]--> retroperitoneal hemorrhage
+  bleeding --[bleeding is a symptom of tumors (Ensemble_Veto (BERT: 1.00))]--> tumors
+  emia --[emia is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  emia --[emia is a symptom of acute renal failure (Ensemble_Veto (BERT: 1.00))]--> acute renal failure
+  emia --[emia is a symptom of anemia (Ensemble_Veto (BERT: 1.00))]--> anemia
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of acute renal failure (Ensemble_Veto (BERT: 1.00))]--> acute renal failure
+  pain --[pain is a symptom of anemia (Ensemble_Veto (BERT: 1.00))]--> anemia
+Article 32
+  arthralgia --[arthralgia is a symptom of acute-onset right-sided hemiparesis and slurred speech (Ensemble_Veto (BERT: 1.00))]--> acute-onset right-sided hemiparesis and slurred speech
+  arthralgia --[arthralgia is a symptom of asymmetric arthralgia (Ensemble_Veto (BERT: 1.00))]--> asymmetric arthralgia
+  arthralgia --[arthralgia is a symptom of low back pain (Ensemble_Veto (BERT: 1.00))]--> low back pain
+  fever --[fever is a symptom of acute-onset right-sided hemiparesis and slurred speech (Ensemble_Veto (BERT: 1.00))]--> acute-onset right-sided hemiparesis and slurred speech
+  fever --[fever is a symptom of asymmetric arthralgia (Ensemble_Veto (BERT: 1.00))]--> asymmetric arthralgia
+  fever --[fever is a symptom of low back pain (Ensemble_Veto (BERT: 1.00))]--> low back pain
+  iparesis --[iparesis is a symptom of acute-onset right-sided hemiparesis and slurred speech (Ensemble_Veto (BERT: 1.00))]--> acute-onset right-sided hemiparesis and slurred speech
+  iparesis --[iparesis is a symptom of asymmetric arthralgia (Ensemble_Veto (BERT: 1.00))]--> asymmetric arthralgia
+  iparesis --[iparesis is a symptom of low back pain (Ensemble_Veto (BERT: 1.00))]--> low back pain
+  hemorrhage --[hemorrhage is a symptom of edema (Ensemble_Veto (BERT: 1.00))]--> edema
+  hemorrhage --[hemorrhage is a symptom of multiple lesions (Ensemble_Veto (BERT: 1.00))]--> multiple lesions
+  collections --[collections is a symptom of septic (Ensemble_Veto (BERT: 1.00))]--> septic
+  sept --[sept is a symptom of septic (Ensemble_Veto (BERT: 1.00))]--> septic
+Article 33
+  hair loss --[hair loss is a symptom of alopecia (Ensemble_Veto (BERT: 1.00))]--> alopecia
+Article 34
+  pain --[pain is a symptom of dysmenorrhea (Ensemble_Veto (BERT: 1.00))]--> dysmenorrhea
+  pain --[pain is a symptom of dyspareunia (Ensemble_Veto (BERT: 1.00))]--> dyspareunia
+Article 35
+  micro --[micro treats genitourinary syndrome (Ensemble_Veto (BERT: 0.76))]--> genitourinary syndrome
+  dryness --[dryness is a symptom of dyspareunia (Ensemble_Veto (BERT: 1.00))]--> dyspareunia
+  ginal symptoms --[ginal symptoms is a symptom of dyspareunia (Ensemble_Veto (BERT: 0.76))]--> dyspareunia
+  pareu --[pareu is a symptom of dyspareunia (Ensemble_Veto (BERT: 0.98))]--> dyspareunia
+Article 36
+  arthral --[arthral is a symptom of arthralgias (Ensemble_Veto (BERT: 1.00))]--> arthralgias
+  arthral --[arthral is a symptom of cognitive disorders (Ensemble_Veto (BERT: 1.00))]--> cognitive disorders
+  arthral --[arthral is a symptom of myalgias (Ensemble_Veto (BERT: 1.00))]--> myalgias
+  myalgia --[myalgia is a symptom of arthralgias (Ensemble_Veto (BERT: 1.00))]--> arthralgias
+  myalgia --[myalgia is a symptom of cognitive disorders (Ensemble_Veto (BERT: 1.00))]--> cognitive disorders
+  myalgia --[myalgia is a symptom of myalgias (Ensemble_Veto (BERT: 1.00))]--> myalgias
+Article 37
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  headache --[headache is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  headache --[headache is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  neurological deficit --[neurological deficit is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  neurological deficit --[neurological deficit is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  esthesia --[esthesia is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  esthesia --[esthesia is a symptom of dysphasia (Ensemble_Veto (BERT: 0.99))]--> dysphasia
+  esthesia --[esthesia is a symptom of handl syndrome (Ensemble_Veto (BERT: 0.95))]--> handl syndrome
+  esthesia --[esthesia is a symptom of hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis (Ensemble_Veto (BERT: 1.00))]--> hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis
+  esthesia --[esthesia is a symptom of hemiparesthesia (Ensemble_Veto (BERT: 1.00))]--> hemiparesthesia
+  esthesia --[esthesia is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  esthesia --[esthesia is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of dysphasia (Ensemble_Veto (BERT: 1.00))]--> dysphasia
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of handl syndrome (Ensemble_Veto (BERT: 1.00))]--> handl syndrome
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis (Ensemble_Veto (BERT: 1.00))]--> hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of hemiparesthesia (Ensemble_Veto (BERT: 1.00))]--> hemiparesthesia
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  headache --[headache is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  headache --[headache is a symptom of dysphasia (Ensemble_Veto (BERT: 1.00))]--> dysphasia
+  headache --[headache is a symptom of handl syndrome (Ensemble_Veto (BERT: 1.00))]--> handl syndrome
+  headache --[headache is a symptom of hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis (Ensemble_Veto (BERT: 1.00))]--> hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis
+  headache --[headache is a symptom of hemiparesthesia (Ensemble_Veto (BERT: 1.00))]--> hemiparesthesia
+  headache --[headache is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  headache --[headache is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  hemipares --[hemipares is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  hemipares --[hemipares is a symptom of dysphasia (Ensemble_Veto (BERT: 1.00))]--> dysphasia
+  hemipares --[hemipares is a symptom of handl syndrome (Ensemble_Veto (BERT: 1.00))]--> handl syndrome
+  hemipares --[hemipares is a symptom of hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis (Ensemble_Veto (BERT: 1.00))]--> hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis
+  hemipares --[hemipares is a symptom of hemiparesthesia (Ensemble_Veto (BERT: 1.00))]--> hemiparesthesia
+  hemipares --[hemipares is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  hemipares --[hemipares is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  neurological deficit --[neurological deficit is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  neurological deficit --[neurological deficit is a symptom of dysphasia (Ensemble_Veto (BERT: 1.00))]--> dysphasia
+  neurological deficit --[neurological deficit is a symptom of handl syndrome (Ensemble_Veto (BERT: 1.00))]--> handl syndrome
+  neurological deficit --[neurological deficit is a symptom of hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis (Ensemble_Veto (BERT: 1.00))]--> hemiparesis plus cerebrospinal fluid lymphocytic pleocytosis
+  neurological deficit --[neurological deficit is a symptom of hemiparesthesia (Ensemble_Veto (BERT: 1.00))]--> hemiparesthesia
+  neurological deficit --[neurological deficit is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  neurological deficit --[neurological deficit is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  esthesia --[esthesia is a symptom of 29-yr-old (Ensemble_Veto (BERT: 1.00))]--> 29-yr-old
+  esthesia --[esthesia is a symptom of acute-onset (Ensemble_Veto (BERT: 1.00))]--> acute-onset
+  esthesia --[esthesia is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  esthesia --[esthesia is a symptom of paresthesias (Ensemble_Veto (BERT: 1.00))]--> paresthesias
+  esthesia --[esthesia is a symptom of viral illness (Ensemble_Veto (BERT: 1.00))]--> viral illness
+  headache --[headache is a symptom of 29-yr-old (Ensemble_Veto (BERT: 1.00))]--> 29-yr-old
+  headache --[headache is a symptom of acute-onset (Ensemble_Veto (BERT: 1.00))]--> acute-onset
+  headache --[headache is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  headache --[headache is a symptom of paresthesias (Ensemble_Veto (BERT: 1.00))]--> paresthesias
+  headache --[headache is a symptom of viral illness (Ensemble_Veto (BERT: 1.00))]--> viral illness
+  stumbling --[stumbling is a symptom of 29-yr-old (Ensemble_Veto (BERT: 1.00))]--> 29-yr-old
+  stumbling --[stumbling is a symptom of acute-onset (Ensemble_Veto (BERT: 1.00))]--> acute-onset
+  stumbling --[stumbling is a symptom of migraine-like headache (Ensemble_Veto (BERT: 1.00))]--> migraine-like headache
+  stumbling --[stumbling is a symptom of paresthesias (Ensemble_Veto (BERT: 1.00))]--> paresthesias
+  stumbling --[stumbling is a symptom of viral illness (Ensemble_Veto (BERT: 1.00))]--> viral illness
+  esthesia --[esthesia is a symptom of occipital headache (Ensemble_Veto (BERT: 1.00))]--> occipital headache
+  headache --[headache is a symptom of occipital headache (Ensemble_Veto (BERT: 1.00))]--> occipital headache
+  sensory symptoms --[sensory symptoms is a symptom of occipital headache (Ensemble_Veto (BERT: 1.00))]--> occipital headache
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  fluid lymphocytosis --[fluid lymphocytosis is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  headache --[headache is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  headache --[headache is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+  neurological deficit --[neurological deficit is a symptom of cerebrospinal fluid lymphocytosis (Ensemble_Veto (BERT: 1.00))]--> cerebrospinal fluid lymphocytosis
+  neurological deficit --[neurological deficit is a symptom of neurological deficits (Ensemble_Veto (BERT: 1.00))]--> neurological deficits
+Article 38
+  syndrome types --[syndrome types is a symptom of tcm syndrome (Ensemble_Veto (BERT: 1.00))]--> tcm syndrome
+Article 39
+No relations found.
+Article 40
+  aripiprazole --[aripiprazole treats bipolar disorder (Ensemble_Veto (BERT: 0.37))]--> bipolar disorder
+  sleep --[sleep is a symptom of bipolar disorder (Ensemble_Veto (BERT: 1.00))]--> bipolar disorder
+  wake --[wake is a symptom of bipolar disorder (Ensemble_Veto (BERT: 1.00))]--> bipolar disorder
+  impairment --[impairment is a symptom of bipolar disorder (Ensemble_Veto (BERT: 1.00))]--> bipolar disorder
+  impairment --[impairment is a symptom of impairments in social functioning (Ensemble_Veto (BERT: 1.00))]--> impairments in social functioning
+  sleep --[sleep is a symptom of bipolar disorder (Ensemble_Veto (BERT: 1.00))]--> bipolar disorder
+  sleep --[sleep is a symptom of impairments in social functioning (Ensemble_Veto (BERT: 1.00))]--> impairments in social functioning
+  wake --[wake is a symptom of bipolar disorder (Ensemble_Veto (BERT: 1.00))]--> bipolar disorder
+  wake --[wake is a symptom of impairments in social functioning (Ensemble_Veto (BERT: 1.00))]--> impairments in social functioning
+  aripiprazole --[aripiprazole treats bipolar disorder (Ensemble_Veto (BERT: 0.83))]--> bipolar disorder
+  monotherapy --[monotherapy treats bipolar disorder (Ensemble_Veto (BERT: 0.44))]--> bipolar disorder
+  monotherapy --[monotherapy treats wake (Ensemble_Veto (BERT: 0.48))]--> wake
+  sleep --[sleep is a symptom of bipolar disorder (Ensemble_Veto (BERT: 1.00))]--> bipolar disorder
+  wake --[wake is a symptom of bipolar disorder (Ensemble_Veto (BERT: 1.00))]--> bipolar disorder
+  adverse --[adverse is a symptom of weight gain (Ensemble_Veto (BERT: 1.00))]--> weight gain
+  monotherapy --[monotherapy treats dswp syndrome (Ensemble_Veto (BERT: 0.99))]--> dswp syndrome
+Article 41
+No relations found.
+Article 42
+  pulmonary --[pulmonary is a symptom of b-cell lymphoma (Ensemble_Veto (BERT: 0.99))]--> b-cell lymphoma
+  pulmonary --[pulmonary is a symptom of gastrointestinal- and pulmonary symptoms (Ensemble_Veto (BERT: 1.00))]--> gastrointestinal- and pulmonary symptoms
+Article 43
+  invasion --[invasion is a symptom of cavernous sinus syndrome (Ensemble_Veto (BERT: 1.00))]--> cavernous sinus syndrome
+  invasion --[invasion is a symptom of squamous cell carcinoma (Ensemble_Veto (BERT: 1.00))]--> squamous cell carcinoma
+  tumor --[tumor is a symptom of cavernous sinus syndrome (Ensemble_Veto (BERT: 1.00))]--> cavernous sinus syndrome
+  esthesia --[esthesia is a symptom of paresthesia (Ensemble_Veto (BERT: 1.00))]--> paresthesia
+  palsy --[palsy is a symptom of paresthesia (Ensemble_Veto (BERT: 1.00))]--> paresthesia
+  invasion --[invasion is a symptom of cranial nerve palsies (Ensemble_Veto (BERT: 1.00))]--> cranial nerve palsies
+Article 44
+  action myoclonus --[action myoclonus is a symptom of myoclonus (Ensemble_Veto (BERT: 1.00))]--> myoclonus
+Article 45
+  pain --[pain is a symptom of vaginal pain (Ensemble_Veto (BERT: 1.00))]--> vaginal pain
+Article 46
+No relations found.
+Article 47
+  frailty --[frailty is a symptom of postoperative delirium (Ensemble_Veto (BERT: 1.00))]--> postoperative delirium
+  frailty --[frailty is a symptom of postoperative delirium (Ensemble_Veto (BERT: 1.00))]--> postoperative delirium
+Article 48
+  abnormalities --[abnormalities is a symptom of chorea-like involuntary movements (Ensemble_Veto (BERT: 1.00))]--> chorea-like involuntary movements
+  abnormalities --[abnormalities is a symptom of contralateral basal ganglia abnormalities (Ensemble_Veto (BERT: 1.00))]--> contralateral basal ganglia abnormalities
+  abnormalities --[abnormalities is a symptom of diabetes (Ensemble_Veto (BERT: 1.00))]--> diabetes
+  abnormalities --[abnormalities is a symptom of diabetic striate syndrome (Ensemble_Veto (BERT: 1.00))]--> diabetic striate syndrome
+  involuntary movements --[involuntary movements is a symptom of chorea-like involuntary movements (Ensemble_Veto (BERT: 1.00))]--> chorea-like involuntary movements
+  involuntary movements --[involuntary movements is a symptom of contralateral basal ganglia abnormalities (Ensemble_Veto (BERT: 1.00))]--> contralateral basal ganglia abnormalities
+  involuntary movements --[involuntary movements is a symptom of diabetes (Ensemble_Veto (BERT: 1.00))]--> diabetes
+  involuntary movements --[involuntary movements is a symptom of diabetic striate syndrome (Ensemble_Veto (BERT: 1.00))]--> diabetic striate syndrome
+  hyper --[hyper is a symptom of hypertension (Ensemble_Veto (BERT: 0.65))]--> hypertension
+  lesions --[lesions is a symptom of high-density lesions (Ensemble_Veto (BERT: 1.00))]--> high-density lesions
+  hyper --[hyper is a symptom of hyperintensity (Ensemble_Veto (BERT: 1.00))]--> hyperintensity
+  hyper --[hyper is a symptom of basal ganglia ischemia (Ensemble_Veto (BERT: 1.00))]--> basal ganglia ischemia
+  hyper --[hyper is a symptom of hyperglycemia (Ensemble_Veto (BERT: 0.99))]--> hyperglycemia
+Article 49
+  radiation therapy --[radiation therapy treats hodgkin lymphoma (Ensemble_Veto (BERT: 0.41))]--> hodgkin lymphoma
+  dropped head --[dropped head is a symptom of head syndrome (Ensemble_Veto (BERT: 1.00))]--> head syndrome
+  dropped head --[dropped head is a symptom of hodgkin lymphoma (Ensemble_Veto (BERT: 1.00))]--> hodgkin lymphoma
+  oxygen therapy --[oxygen therapy treats head syndrome (Ensemble_Veto (BERT: 0.54))]--> head syndrome
+  oxygen therapy --[oxygen therapy treats dropped head (Ensemble_Veto (BERT: 0.72))]--> dropped head
+  dropped head --[dropped head is a symptom of head syndrome (Ensemble_Veto (BERT: 1.00))]--> head syndrome
+  weakness --[weakness is a symptom of weakness of cervical paraspinal muscles (Ensemble_Veto (BERT: 1.00))]--> weakness of cervical paraspinal muscles
+  horizontal gaze --[horizontal gaze is a symptom of chin-on-chest deformity (Ensemble_Veto (BERT: 1.00))]--> chin-on-chest deformity
+  radiotherapy --[radiotherapy treats hodgkin lymphoma (Ensemble_Veto (BERT: 0.45))]--> hodgkin lymphoma
+  radiotherapy --[radiotherapy treats hodgkin lymphoma (Ensemble_Veto (BERT: 0.99))]--> hodgkin lymphoma
+  extension --[extension is a symptom of intermittent dysphagia (Ensemble_Veto (BERT: 1.00))]--> intermittent dysphagia
+  stiffness --[stiffness is a symptom of intermittent dysphagia (Ensemble_Veto (BERT: 1.00))]--> intermittent dysphagia
+  weakness --[weakness is a symptom of intermittent dysphagia (Ensemble_Veto (BERT: 1.00))]--> intermittent dysphagia
+Article 50
+  drug delivery device --[drug delivery device treats genitourinary syndrome (Ensemble_Veto (BERT: 0.62))]--> genitourinary syndrome
+  integrated --[integrated treats genitourinary syndrome (Ensemble_Veto (BERT: 0.61))]--> genitourinary syndrome
+Article 51
+  fever --[fever is a symptom of undifferentiated recurrent fever (Ensemble_Veto (BERT: 1.00))]--> undifferentiated recurrent fever
+  fever --[fever is a symptom of autoinflammatory disorder (Ensemble_Veto (BERT: 1.00))]--> autoinflammatory disorder
+  fever --[fever is a symptom of undifferentiated recurrent fever (Ensemble_Veto (BERT: 1.00))]--> undifferentiated recurrent fever
+  fever --[fever is not related adenopathy (Ensemble_Veto (BERT: 1.00))]--> adenopathy
+  fever --[fever is not related aphthous stomatitis (Ensemble_Veto (BERT: 0.87))]--> aphthous stomatitis
+  fever --[fever is a symptom of hereditary recurrent fevers (Ensemble_Veto (BERT: 0.53))]--> hereditary recurrent fevers
+  fever --[fever is not related pfapa (Ensemble_Veto (BERT: 0.72))]--> pfapa
+  fever --[fever is not related pharyngitis (Ensemble_Veto (BERT: 1.00))]--> pharyngitis
+  ngitis --[ngitis is not related adenopathy (Ensemble_Veto (BERT: 0.50))]--> adenopathy
+  ngitis --[ngitis is a symptom of aphthous stomatitis (Ensemble_Veto (BERT: 0.99))]--> aphthous stomatitis
+  ngitis --[ngitis is a symptom of hereditary recurrent fevers (Ensemble_Veto (BERT: 0.64))]--> hereditary recurrent fevers
+  ngitis --[ngitis is a symptom of pfapa (Ensemble_Veto (BERT: 0.84))]--> pfapa
+  ngitis --[ngitis is a symptom of pharyngitis (Ensemble_Veto (BERT: 0.84))]--> pharyngitis
+  arthralgia --[arthralgia is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  mala --[mala is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  symptom --[symptom is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  arthralgia --[arthralgia is a symptom of chest pain (Ensemble_Veto (BERT: 1.00))]--> chest pain
+  arthralgia --[arthralgia is a symptom of pharyngitis (Ensemble_Veto (BERT: 1.00))]--> pharyngitis
+  headache --[headache is a symptom of chest pain (Ensemble_Veto (BERT: 1.00))]--> chest pain
+  headache --[headache is a symptom of pharyngitis (Ensemble_Veto (BERT: 1.00))]--> pharyngitis
+  ngitis --[ngitis is a symptom of chest pain (Ensemble_Veto (BERT: 1.00))]--> chest pain
+  ngitis --[ngitis is a symptom of pharyngitis (Ensemble_Veto (BERT: 0.97))]--> pharyngitis
+  pain --[pain is a symptom of chest pain (Ensemble_Veto (BERT: 1.00))]--> chest pain
+  pain --[pain is a symptom of pharyngitis (Ensemble_Veto (BERT: 1.00))]--> pharyngitis
+  symptom --[symptom is a symptom of chest pain (Ensemble_Veto (BERT: 1.00))]--> chest pain
+  symptom --[symptom is a symptom of pharyngitis (Ensemble_Veto (BERT: 1.00))]--> pharyngitis
+  colchicine --[colchicine treats pain (Ensemble_Veto (BERT: 0.56))]--> pain
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+Article 52
+  adverse --[adverse is a symptom of cramping (Ensemble_Veto (BERT: 1.00))]--> cramping
+  adverse --[adverse is a symptom of vaginal spotting (Ensemble_Veto (BERT: 1.00))]--> vaginal spotting
+  pain --[pain is a symptom of cramping (Ensemble_Veto (BERT: 1.00))]--> cramping
+  pain --[pain is a symptom of vaginal spotting (Ensemble_Veto (BERT: 1.00))]--> vaginal spotting
+Article 53
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of hyperemesis (Ensemble_Veto (BERT: 1.00))]--> hyperemesis
+  vomiting --[vomiting is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  vomiting --[vomiting is a symptom of hyperemesis (Ensemble_Veto (BERT: 1.00))]--> hyperemesis
+Article 54
+  bai shao --[bai shao treats rhizoma (Ensemble_Veto (BERT: 0.53))]--> rhizoma
+Article 55
+No relations found.
+Article 56
+  ulin --[ulin is a symptom of macroglobulinemia (Ensemble_Veto (BERT: 1.00))]--> macroglobulinemia
+  erythropoietin --[erythropoietin is a side effect of erythrocytosis (Ensemble_Veto (BERT: 0.57))]--> erythrocytosis
+  erythropoietin --[erythropoietin is a side effect of telangiectasia (Ensemble_Veto (BERT: 0.73))]--> telangiectasia
+  osis --[osis is a symptom of erythrocytosis (Ensemble_Veto (BERT: 1.00))]--> erythrocytosis
+  osis --[osis is a symptom of gammopathy (Ensemble_Veto (BERT: 1.00))]--> gammopathy
+  osis --[osis is a symptom of telangiectasia (Ensemble_Veto (BERT: 1.00))]--> telangiectasia
+  ulin --[ulin is not related gammopathy (Ensemble_Veto (BERT: 0.83))]--> gammopathy
+  ulin --[ulin is not related macroglobulinemia (Ensemble_Veto (BERT: 0.51))]--> macroglobulinemia
+  ulin --[ulin is a symptom of multiple myeloma (Ensemble_Veto (BERT: 0.76))]--> multiple myeloma
+  osis --[osis is a symptom of erythrocytosis (Ensemble_Veto (BERT: 1.00))]--> erythrocytosis
+  osis --[osis is not related primary polycythemia (Ensemble_Veto (BERT: 0.98))]--> primary polycythemia
+  osis --[osis is a symptom of erythrocytosis (Ensemble_Veto (BERT: 1.00))]--> erythrocytosis
+  osis --[osis is a symptom of obstructive bronchopulmonary disease (Ensemble_Veto (BERT: 1.00))]--> obstructive bronchopulmonary disease
+  osis --[osis is a symptom of erythrocytosis (Ensemble_Veto (BERT: 0.99))]--> erythrocytosis
+  osis --[osis is not related hepatopathy (Ensemble_Veto (BERT: 0.63))]--> hepatopathy
+  osis --[osis is a symptom of telangiectasia (Ensemble_Veto (BERT: 1.00))]--> telangiectasia
+  swelling --[swelling is a symptom of ascites (Ensemble_Veto (BERT: 1.00))]--> ascites
+  swelling --[swelling is a symptom of genitals (Ensemble_Veto (BERT: 1.00))]--> genitals
+  swelling --[swelling is a symptom of perineum (Ensemble_Veto (BERT: 1.00))]--> perineum
+  swelling --[swelling is a symptom of genitals (Ensemble_Veto (BERT: 1.00))]--> genitals
+  swelling --[swelling is a symptom of pelvic effusion (Ensemble_Veto (BERT: 1.00))]--> pelvic effusion
+  swelling --[swelling is a symptom of perineum (Ensemble_Veto (BERT: 1.00))]--> perineum
+  swelling --[swelling is a symptom of pleural effusions (Ensemble_Veto (BERT: 1.00))]--> pleural effusions
+  ulin --[ulin is a symptom of macroglobulinemia (Ensemble_Veto (BERT: 1.00))]--> macroglobulinemia
+  osis --[osis is a symptom of erythrocytosis (Ensemble_Veto (BERT: 1.00))]--> erythrocytosis
+  osis --[osis is a symptom of poems syndrome (Ensemble_Veto (BERT: 0.93))]--> poems syndrome
+  ulin --[ulin is a symptom of erythrocytosis (Ensemble_Veto (BERT: 0.90))]--> erythrocytosis
+  osis --[osis is a symptom of renal diseases (Ensemble_Veto (BERT: 1.00))]--> renal diseases
+  osis --[osis is a symptom of tempi syndrome or renal lymphangiomatosis (Ensemble_Veto (BERT: 1.00))]--> tempi syndrome or renal lymphangiomatosis
+Article 57
+  pain --[pain is a symptom of muscle block (Ensemble_Veto (BERT: 1.00))]--> muscle block
+  pain --[pain is a symptom of neck pain (Ensemble_Veto (BERT: 1.00))]--> neck pain
+  pain --[pain is a symptom of neurogenic pectoralis minor syndrome (Ensemble_Veto (BERT: 1.00))]--> neurogenic pectoralis minor syndrome
+  pain --[pain is a symptom of neurogenic pectoralis minor syndrome (Ensemble_Veto (BERT: 1.00))]--> neurogenic pectoralis minor syndrome
+  pain --[pain is a symptom of upper extremity pain (Ensemble_Veto (BERT: 1.00))]--> upper extremity pain
+  pain --[pain is a symptom of neck pain (Ensemble_Veto (BERT: 1.00))]--> neck pain
+  pain --[pain is a symptom of paresthesia (Ensemble_Veto (BERT: 1.00))]--> paresthesia
+  pain --[pain is a symptom of upper extremity pain (Ensemble_Veto (BERT: 0.99))]--> upper extremity pain
+Article 58
+  fatigue --[fatigue is a symptom of computer vision syndrome (Ensemble_Veto (BERT: 1.00))]--> computer vision syndrome
+  fatigue --[fatigue is a symptom of blurred vision (Ensemble_Veto (BERT: 1.00))]--> blurred vision
+  fatigue --[fatigue is a symptom of dryness (Ensemble_Veto (BERT: 1.00))]--> dryness
+  itching --[itching is a symptom of blurred vision (Ensemble_Veto (BERT: 1.00))]--> blurred vision
+  itching --[itching is a symptom of dryness (Ensemble_Veto (BERT: 1.00))]--> dryness
+  discomfort --[discomfort is a symptom of headaches (Ensemble_Veto (BERT: 0.99))]--> headaches
+  headache --[headache is a symptom of headaches (Ensemble_Veto (BERT: 1.00))]--> headaches
+  irritation --[irritation is a symptom of headaches (Ensemble_Veto (BERT: 1.00))]--> headaches
+  tearing --[tearing is a symptom of headaches (Ensemble_Veto (BERT: 1.00))]--> headaches
+Article 59
+  pain --[pain is a symptom of redness (Ensemble_Veto (BERT: 1.00))]--> redness
+  redness symptoms --[redness symptoms is a symptom of redness (Ensemble_Veto (BERT: 1.00))]--> redness
+Article 60
+  dysfunction --[dysfunction is a symptom of dysfunction of the genitourinary system and emotional disorders (Ensemble_Veto (BERT: 1.00))]--> dysfunction of the genitourinary system and emotional disorders
+  dysfunction --[dysfunction is a symptom of pelvic pain (Ensemble_Veto (BERT: 1.00))]--> pelvic pain
+  pain --[pain is a symptom of dysfunction of the genitourinary system and emotional disorders (Ensemble_Veto (BERT: 1.00))]--> dysfunction of the genitourinary system and emotional disorders
+  pain --[pain is a symptom of pelvic pain (Ensemble_Veto (BERT: 1.00))]--> pelvic pain
+  the genitourinary --[the genitourinary is a symptom of dysfunction of the genitourinary system and emotional disorders (Ensemble_Veto (BERT: 1.00))]--> dysfunction of the genitourinary system and emotional disorders
+  the genitourinary --[the genitourinary is a symptom of pelvic pain (Ensemble_Veto (BERT: 1.00))]--> pelvic pain
+  pain --[pain is a symptom of urologic chronic pain syndrome (Ensemble_Veto (BERT: 1.00))]--> urologic chronic pain syndrome
+  pain --[pain is a symptom of bacterial cystitis (Ensemble_Veto (BERT: 1.00))]--> bacterial cystitis
+  phenazopyridine --[phenazopyridine treats bacterial cystitis (Ensemble_Veto (BERT: 1.00))]--> bacterial cystitis
+  phenazopyridine --[phenazopyridine treats pain (Ensemble_Veto (BERT: 0.97))]--> pain
+  pain --[pain is a symptom of bacterial cystitis (Ensemble_Veto (BERT: 1.00))]--> bacterial cystitis
+Article 61
+  pain --[pain is a symptom of lower back pain (Ensemble_Veto (BERT: 1.00))]--> lower back pain
+  pain --[pain is a symptom of radicular pain (Ensemble_Veto (BERT: 1.00))]--> radicular pain
+Article 62
+  airway compensation --[airway compensation is a symptom of empty nose syndrome (Ensemble_Veto (BERT: 1.00))]--> empty nose syndrome
+  empty nose --[empty nose is a symptom of empty nose syndrome (Ensemble_Veto (BERT: 1.00))]--> empty nose syndrome
+  empty nose --[empty nose is a symptom of empty nose syndrome (Ensemble_Veto (BERT: 1.00))]--> empty nose syndrome
+  serpentine signs --[serpentine signs is a symptom of empty nose syndrome (Ensemble_Veto (BERT: 1.00))]--> empty nose syndrome
+  cosal --[cosal is a symptom of septal mucosal swelling (Ensemble_Veto (BERT: 0.98))]--> septal mucosal swelling
+  sept --[sept is a symptom of septal mucosal swelling (Ensemble_Veto (BERT: 1.00))]--> septal mucosal swelling
+  swelling --[swelling is a symptom of septal mucosal swelling (Ensemble_Veto (BERT: 1.00))]--> septal mucosal swelling
+Article 63
+  loratadine --[loratadine treats allergic rhinitis (Ensemble_Veto (BERT: 0.75))]--> allergic rhinitis
+  chinese --[chinese treats fqdc syndrome (Ensemble_Veto (BERT: 0.86))]--> fqdc syndrome
+  chinese --[chinese treats disease (Ensemble_Veto (BERT: 0.58))]--> disease
+  medicine --[medicine treats fqdc syndrome (Ensemble_Veto (BERT: 0.93))]--> fqdc syndrome
+  medicine --[medicine treats disease (Ensemble_Veto (BERT: 0.58))]--> disease
+  disease --[disease is a symptom of fqdc syndrome (Ensemble_Veto (BERT: 1.00))]--> fqdc syndrome
+  chinese --[chinese treats symptom (Ensemble_Veto (BERT: 0.96))]--> symptom
+  medicine --[medicine treats symptom (Ensemble_Veto (BERT: 0.91))]--> symptom
+  loratadine --[loratadine treats fqdc syndrome (Ensemble_Veto (BERT: 0.96))]--> fqdc syndrome
+  loratadine --[loratadine treats symptom (Ensemble_Veto (BERT: 1.00))]--> symptom
+  symptom --[symptom is a symptom of fqdc syndrome (Ensemble_Veto (BERT: 1.00))]--> fqdc syndrome
+Article 64
+No relations found.
+Article 65
+  thyroid --[thyroid is a side effect of papillary thyroid carcinoma (Ensemble_Veto (BERT: 0.96))]--> papillary thyroid carcinoma
+  mali --[mali is a symptom of active malignancy (Ensemble_Veto (BERT: 1.00))]--> active malignancy
+  mali --[mali is a symptom of cancer (Ensemble_Veto (BERT: 1.00))]--> cancer
+  mali --[mali is a symptom of tumour (Ensemble_Veto (BERT: 1.00))]--> tumour
+  thyroid --[thyroid causes papillary thyroid carcinoma (Ensemble_Veto (BERT: 0.44))]--> papillary thyroid carcinoma
+  numbness --[numbness is a symptom of ataxia (Ensemble_Veto (BERT: 1.00))]--> ataxia
+  mali --[mali is a symptom of cancer (Ensemble_Veto (BERT: 0.60))]--> cancer
+Article 66
+No relations found.
+Article 67
+  athy --[athy is a symptom of dyslipidemia (Ensemble_Veto (BERT: 1.00))]--> dyslipidemia
+  athy --[athy is a symptom of nephropathy (Ensemble_Veto (BERT: 1.00))]--> nephropathy
+  athy --[athy is a symptom of retinopathy (Ensemble_Veto (BERT: 0.99))]--> retinopathy
+  athy --[athy is a symptom of nephropathy (Ensemble_Veto (BERT: 1.00))]--> nephropathy
+Article 68
+  n-acetylcysteine --[n-acetylcysteine treats hepatocellular carcinoma (Ensemble_Veto (BERT: 0.36))]--> hepatocellular carcinoma
+  rial chemoembolization --[rial chemoembolization is a side effect of hepatocellular carcinoma (Ensemble_Veto (BERT: 0.76))]--> hepatocellular carcinoma
+  tace --[tace treats intermediate-stage hcc (Ensemble_Veto (BERT: 0.40))]--> intermediate-stage hcc
+  albumin --[albumin is a side effect of albi (Ensemble_Veto (BERT: 1.00))]--> albi
+  albumin --[albumin is a side effect of post-ctace liver decompensation (Ensemble_Veto (BERT: 1.00))]--> post-ctace liver decompensation
+  tace --[tace is a side effect of albi (Ensemble_Veto (BERT: 0.95))]--> albi
+  deco --[deco is a symptom of albi (Ensemble_Veto (BERT: 1.00))]--> albi
+  deco --[deco is a symptom of post-ctace liver decompensation (Ensemble_Veto (BERT: 1.00))]--> post-ctace liver decompensation
+  deco --[deco is a symptom of post-ctace liver decompensation (Ensemble_Veto (BERT: 1.00))]--> post-ctace liver decompensation
+Article 69
+  defective vision --[defective vision is a symptom of post-lasik (Ensemble_Veto (BERT: 1.00))]--> post-lasik
+  eal thickness --[eal thickness is a symptom of peripheral corneal edema (Ensemble_Veto (BERT: 1.00))]--> peripheral corneal edema
+Article 70
+  edema --[edema is a symptom of paraneoplastic (Ensemble_Veto (BERT: 1.00))]--> paraneoplastic
+  edema --[edema is a symptom of pitting edema (Ensemble_Veto (BERT: 1.00))]--> pitting edema
+  edema --[edema is a symptom of rheumatic disease (Ensemble_Veto (BERT: 1.00))]--> rheumatic disease
+  synovitis --[synovitis is a symptom of paraneoplastic (Ensemble_Veto (BERT: 1.00))]--> paraneoplastic
+  synovitis --[synovitis is a symptom of pitting edema (Ensemble_Veto (BERT: 1.00))]--> pitting edema
+  synovitis --[synovitis is a symptom of rheumatic disease (Ensemble_Veto (BERT: 1.00))]--> rheumatic disease
+Article 71
+  ection --[ection treats low anterior resection syndrome (Ensemble_Veto (BERT: 0.39))]--> low anterior resection syndrome
+  transanal irrigation --[transanal irrigation treats low anterior resection syndrome (Ensemble_Veto (BERT: 0.66))]--> low anterior resection syndrome
+  el dysfunction --[el dysfunction is a symptom of bowel dysfunction (Ensemble_Veto (BERT: 1.00))]--> bowel dysfunction
+  el dysfunction --[el dysfunction is a symptom of low anterior resection syndrome (Ensemble_Veto (BERT: 1.00))]--> low anterior resection syndrome
+  el dysfunction --[el dysfunction is a symptom of bowel dysfunction (Ensemble_Veto (BERT: 1.00))]--> bowel dysfunction
+  el dysfunction --[el dysfunction is a symptom of bowel dysfunction (Ensemble_Veto (BERT: 1.00))]--> bowel dysfunction
+  el dysfunction --[el dysfunction is a symptom of bowel dysfunction (Ensemble_Veto (BERT: 1.00))]--> bowel dysfunction
+  el dysfunction --[el dysfunction is a symptom of cancer (Ensemble_Veto (BERT: 0.82))]--> cancer
+Article 72
+  phagia --[phagia is a symptom of non-esophageal dysphagia (Ensemble_Veto (BERT: 1.00))]--> non-esophageal dysphagia
+  phagia --[phagia is a symptom of disability (Ensemble_Veto (BERT: 1.00))]--> disability
+Article 73
+  meta --[meta is a symptom of lung cancer (Ensemble_Veto (BERT: 1.00))]--> lung cancer
+  meta --[meta is a symptom of orbital apex syndrome (Ensemble_Veto (BERT: 1.00))]--> orbital apex syndrome
+  meta --[meta is a symptom of mucin-secreting adenocarcinoma (Ensemble_Veto (BERT: 1.00))]--> mucin-secreting adenocarcinoma
+  nodules --[nodules is a symptom of mucin-secreting adenocarcinoma (Ensemble_Veto (BERT: 1.00))]--> mucin-secreting adenocarcinoma
+  mour --[mour is a symptom of tumour (Ensemble_Veto (BERT: 0.71))]--> tumour
+  lesions --[lesions is a symptom of primary lung carcinoma (Ensemble_Veto (BERT: 1.00))]--> primary lung carcinoma
+  meta --[meta is a symptom of primary lung carcinoma (Ensemble_Veto (BERT: 1.00))]--> primary lung carcinoma
+Article 74
+  preserving surgery --[preserving surgery treats cancer (Ensemble_Veto (BERT: 0.79))]--> cancer
+  dysfunction --[dysfunction is a symptom of bowel dysfunction syndrome (Ensemble_Veto (BERT: 1.00))]--> bowel dysfunction syndrome
+  dysfunction --[dysfunction is a symptom of cancer (Ensemble_Veto (BERT: 0.84))]--> cancer
+  dysfunction --[dysfunction is a symptom of low anterior resection syndrome (Ensemble_Veto (BERT: 1.00))]--> low anterior resection syndrome
+Article 75
+  diarrhea --[diarrhea is a symptom of intermittent vomiting (Ensemble_Veto (BERT: 1.00))]--> intermittent vomiting
+Article 76
+  cough --[cough is a symptom of chest tightness (Ensemble_Veto (BERT: 1.00))]--> chest tightness
+  tight --[tight is a symptom of chest tightness (Ensemble_Veto (BERT: 1.00))]--> chest tightness
+  deposition --[deposition is a symptom of emphysema (Ensemble_Veto (BERT: 1.00))]--> emphysema
+  deposition --[deposition is a symptom of inflammation (Ensemble_Veto (BERT: 1.00))]--> inflammation
+  matous changes --[matous changes is a symptom of emphysema (Ensemble_Veto (BERT: 1.00))]--> emphysema
+  matous changes --[matous changes is a symptom of inflammation (Ensemble_Veto (BERT: 1.00))]--> inflammation
+Article 77
+No relations found.
+Article 78
+  resection --[resection causes low anterior resection syndrome (Ensemble_Veto (BERT: 0.37))]--> low anterior resection syndrome
+  transanal irrigation --[transanal irrigation treats low anterior resection syndrome (Ensemble_Veto (BERT: 0.47))]--> low anterior resection syndrome
+  resection --[resection is a side effect of cancer (Ensemble_Veto (BERT: 0.99))]--> cancer
+  resection --[resection treats cancer (Ensemble_Veto (BERT: 0.89))]--> cancer
+  interruption --[interruption is a symptom of death (Ensemble_Veto (BERT: 1.00))]--> death
+Article 79
+  evacuation --[evacuation is a side effect of obstructive defecation syndrome (Ensemble_Veto (BERT: 1.00))]--> obstructive defecation syndrome
+  evacuation --[evacuation is a side effect of straining (Ensemble_Veto (BERT: 0.71))]--> straining
+  straining --[straining is a symptom of obstructive defecation syndrome (Ensemble_Veto (BERT: 1.00))]--> obstructive defecation syndrome
+  symptom severity --[symptom severity is a symptom of anxiety disorder-7 (Ensemble_Veto (BERT: 1.00))]--> anxiety disorder-7
+  symptom severity --[symptom severity is a symptom of wexner incontinence (Ensemble_Veto (BERT: 1.00))]--> wexner incontinence
+  mental distress --[mental distress is a symptom of psychiatric (Ensemble_Veto (BERT: 1.00))]--> psychiatric
+Article 80
+No relations found.
+Article 81
+  acupoint --[acupoint treats helicobacter pylori infection (Ensemble_Veto (BERT: 1.00))]--> helicobacter pylori infection
+  acupoint --[acupoint treats kang (Ensemble_Veto (BERT: 0.99))]--> kang
+  kang --[kang is a symptom of helicobacter pylori infection (Ensemble_Veto (BERT: 1.00))]--> helicobacter pylori infection
+  acupoint --[acupoint treats kang (Ensemble_Veto (BERT: 0.98))]--> kang
+  acupoint --[acupoint treats kang (Ensemble_Veto (BERT: 1.00))]--> kang
+  le therapy --[le therapy treats kang (Ensemble_Veto (BERT: 0.95))]--> kang
+  quad --[quad treats kang (Ensemble_Veto (BERT: 0.96))]--> kang
+  adverse reactions --[adverse reactions is a symptom of tcm syndrome (Ensemble_Veto (BERT: 1.00))]--> tcm syndrome
+  acupoint --[acupoint treats kang (Ensemble_Veto (BERT: 1.00))]--> kang
+  le therapy --[le therapy treats kang (Ensemble_Veto (BERT: 0.51))]--> kang
+Article 82
+  cataton --[cataton is a symptom of catatonia (Ensemble_Veto (BERT: 1.00))]--> catatonia
+  cataton --[cataton is a symptom of systemic lupus erythematosus (Ensemble_Veto (BERT: 1.00))]--> systemic lupus erythematosus
+  cataton --[cataton is a symptom of autoimmune disease (Ensemble_Veto (BERT: 1.00))]--> autoimmune disease
+  cataton --[cataton is a symptom of catatonia (Ensemble_Veto (BERT: 1.00))]--> catatonia
+  cataton --[cataton is a symptom of cotard syndrome (Ensemble_Veto (BERT: 1.00))]--> cotard syndrome
+  cataton --[cataton is a symptom of systemic lupus erythematosus (Ensemble_Veto (BERT: 1.00))]--> systemic lupus erythematosus
+  inappropriate behaviors --[inappropriate behaviors is a symptom of hallucinations (Ensemble_Veto (BERT: 1.00))]--> hallucinations
+  olfactory hallucinations --[olfactory hallucinations is a symptom of hallucinations (Ensemble_Veto (BERT: 1.00))]--> hallucinations
+  visual --[visual is a symptom of hallucinations (Ensemble_Veto (BERT: 1.00))]--> hallucinations
+  thought blockages --[thought blockages is a symptom of blockages (Ensemble_Veto (BERT: 1.00))]--> blockages
+  thought blockages --[thought blockages is a symptom of cotard syndrome (Ensemble_Veto (BERT: 1.00))]--> cotard syndrome
+  thought blockages --[thought blockages is a symptom of stuporous (Ensemble_Veto (BERT: 1.00))]--> stuporous
+  catalepsy --[catalepsy is a symptom of catatonia (Ensemble_Veto (BERT: 1.00))]--> catatonia
+  catalepsy --[catalepsy is a symptom of rigidity (Ensemble_Veto (BERT: 1.00))]--> rigidity
+  cataton --[cataton is a symptom of catatonia (Ensemble_Veto (BERT: 1.00))]--> catatonia
+  cataton --[cataton is a symptom of rigidity (Ensemble_Veto (BERT: 1.00))]--> rigidity
+  rigid --[rigid is a symptom of catatonia (Ensemble_Veto (BERT: 1.00))]--> catatonia
+  rigid --[rigid is a symptom of rigidity (Ensemble_Veto (BERT: 1.00))]--> rigidity
+  cataton --[cataton is a symptom of catatonia (Ensemble_Veto (BERT: 1.00))]--> catatonia
+  cataton --[cataton is a symptom of npsle (Ensemble_Veto (BERT: 1.00))]--> npsle
+  cataton --[cataton is a symptom of catatonia (Ensemble_Veto (BERT: 0.99))]--> catatonia
+Article 83
+  physical therapy --[physical therapy treats locomotive syndrome (Ensemble_Veto (BERT: 0.53))]--> locomotive syndrome
+  impaired mobility --[impaired mobility is a symptom of locomotive syndrome (Ensemble_Veto (BERT: 1.00))]--> locomotive syndrome
+  impaired mobility --[impaired mobility is a symptom of musculoskeletal disorders (Ensemble_Veto (BERT: 1.00))]--> musculoskeletal disorders
+  physical therapy --[physical therapy treats locomotive syndrome (Ensemble_Veto (BERT: 0.94))]--> locomotive syndrome
+  physical therapy --[physical therapy treats locomotive syndrome (Ensemble_Veto (BERT: 0.98))]--> locomotive syndrome
+Article 84
+  iotherapy --[iotherapy causes stretching (Ensemble_Veto (BERT: 0.49))]--> stretching
+  manual therapy --[manual therapy treats scar (Ensemble_Veto (BERT: 0.80))]--> scar
+  manual therapy --[manual therapy causes stretching (Ensemble_Veto (BERT: 0.65))]--> stretching
+  massage --[massage treats scar (Ensemble_Veto (BERT: 0.65))]--> scar
+  massage --[massage causes stretching (Ensemble_Veto (BERT: 0.60))]--> stretching
+  lative tissue release techniques --[lative tissue release techniques treats scar (Ensemble_Veto (BERT: 0.54))]--> scar
+  lative tissue release techniques --[lative tissue release techniques causes stretching (Ensemble_Veto (BERT: 0.86))]--> stretching
+  mani --[mani treats scar (Ensemble_Veto (BERT: 1.00))]--> scar
+  massage --[massage treats scar (Ensemble_Veto (BERT: 0.58))]--> scar
+Article 85
+No relations found.
+Article 86
+  fever --[fever is a symptom of dyspnea (Ensemble_Veto (BERT: 1.00))]--> dyspnea
+  fever --[fever is a symptom of tachycardia (Ensemble_Veto (BERT: 1.00))]--> tachycardia
+  fever --[fever is a symptom of trauma (Ensemble_Veto (BERT: 1.00))]--> trauma
+  yspnea --[yspnea is a symptom of dyspnea (Ensemble_Veto (BERT: 1.00))]--> dyspnea
+  yspnea --[yspnea is a symptom of tachycardia (Ensemble_Veto (BERT: 1.00))]--> tachycardia
+  yspnea --[yspnea is a symptom of trauma (Ensemble_Veto (BERT: 1.00))]--> trauma
+  methylprednisolone --[methylprednisolone treats lesions (Ensemble_Veto (BERT: 0.98))]--> lesions
+  consciousness --[consciousness is a symptom of dyspnea (Ensemble_Veto (BERT: 1.00))]--> dyspnea
+  yspnea --[yspnea is a symptom of dyspnea (Ensemble_Veto (BERT: 1.00))]--> dyspnea
+Article 87
+  heter arterial chemo --[heter arterial chemo treats unresectable hepatocellular carcinoma (Ensemble_Veto (BERT: 0.92))]--> unresectable hepatocellular carcinoma
+  fever --[fever is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  nausea --[nausea is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  vomiting --[vomiting is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  dexamethasone --[dexamethasone treats abdominal pain (Ensemble_Veto (BERT: 0.55))]--> abdominal pain
+  dexamethasone --[dexamethasone treats nausea and vomiting (Ensemble_Veto (BERT: 0.91))]--> nausea and vomiting
+  dexamethasone --[dexamethasone treats fever (Ensemble_Veto (BERT: 0.60))]--> fever
+  dexamethasone --[dexamethasone treats nausea (Ensemble_Veto (BERT: 0.74))]--> nausea
+  dexamethasone --[dexamethasone treats vomiting (Ensemble_Veto (BERT: 0.66))]--> vomiting
+  fever --[fever is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  fever --[fever is a symptom of nausea and vomiting (Ensemble_Veto (BERT: 1.00))]--> nausea and vomiting
+  nausea --[nausea is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  nausea --[nausea is a symptom of nausea and vomiting (Ensemble_Veto (BERT: 1.00))]--> nausea and vomiting
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of nausea and vomiting (Ensemble_Veto (BERT: 1.00))]--> nausea and vomiting
+  vomiting --[vomiting is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  vomiting --[vomiting is a symptom of nausea and vomiting (Ensemble_Veto (BERT: 1.00))]--> nausea and vomiting
+  fever --[fever is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  nausea --[nausea is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  vomiting --[vomiting is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+Article 88
+  pneumonectomy --[pneumonectomy treats postpneumonectomy syndrome (Ensemble_Veto (BERT: 0.74))]--> postpneumonectomy syndrome
+  surgical treatment --[surgical treatment treats postpneumonectomy syndrome (Ensemble_Veto (BERT: 0.49))]--> postpneumonectomy syndrome
+  pneumonectomy --[pneumonectomy is a side effect of stinal (Ensemble_Veto (BERT: 0.61))]--> stinal
+  compression --[compression is a symptom of airway compression (Ensemble_Veto (BERT: 1.00))]--> airway compression
+  compression --[compression is a symptom of postpneumonectomy syndrome (Ensemble_Veto (BERT: 1.00))]--> postpneumonectomy syndrome
+  compression --[compression is a symptom of respiratory distress (Ensemble_Veto (BERT: 1.00))]--> respiratory distress
+  stinal --[stinal is a symptom of airway compression (Ensemble_Veto (BERT: 1.00))]--> airway compression
+  stinal --[stinal is a symptom of postpneumonectomy syndrome (Ensemble_Veto (BERT: 1.00))]--> postpneumonectomy syndrome
+  stinal --[stinal is a symptom of respiratory distress (Ensemble_Veto (BERT: 1.00))]--> respiratory distress
+  pneumonectomy --[pneumonectomy treats bronchial mucoepidermoid carcinoma (Ensemble_Veto (BERT: 0.39))]--> bronchial mucoepidermoid carcinoma
+Article 89
+No relations found.
+Article 90
+  fever --[fever is a symptom of undifferentiated recurrent fever (Ensemble_Veto (BERT: 1.00))]--> undifferentiated recurrent fever
+  response --[response is a symptom of undifferentiated recurrent fever (Ensemble_Veto (BERT: 1.00))]--> undifferentiated recurrent fever
+  fever --[fever is a symptom of undifferentiated recurrent fever (Ensemble_Veto (BERT: 1.00))]--> undifferentiated recurrent fever
+  fever --[fever is not related aphthous stomatitis (Ensemble_Veto (BERT: 0.75))]--> aphthous stomatitis
+  fever --[fever is a symptom of monogenic recurrent fevers (Ensemble_Veto (BERT: 1.00))]--> monogenic recurrent fevers
+  fever --[fever is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  fever --[fever is a symptom of arthralgia (Ensemble_Veto (BERT: 1.00))]--> arthralgia
+  fever --[fever is a symptom of lymphadenopathy (Ensemble_Veto (BERT: 1.00))]--> lymphadenopathy
+  fever --[fever is a symptom of myalgia (Ensemble_Veto (BERT: 1.00))]--> myalgia
+  fever --[fever is a symptom of pfapa (Ensemble_Veto (BERT: 1.00))]--> pfapa
+  fever --[fever is a symptom of tonsillitis (Ensemble_Veto (BERT: 1.00))]--> tonsillitis
+  pain --[pain is a symptom of abdominal pain (Ensemble_Veto (BERT: 1.00))]--> abdominal pain
+  pain --[pain is a symptom of arthralgia (Ensemble_Veto (BERT: 0.99))]--> arthralgia
+  pain --[pain is a symptom of lymphadenopathy (Ensemble_Veto (BERT: 1.00))]--> lymphadenopathy
+  pain --[pain is a symptom of myalgia (Ensemble_Veto (BERT: 1.00))]--> myalgia
+  pain --[pain is a symptom of pfapa (Ensemble_Veto (BERT: 1.00))]--> pfapa
+  pain --[pain is a symptom of tonsillitis (Ensemble_Veto (BERT: 1.00))]--> tonsillitis
+  colchicine --[colchicine is a side effect of lymphadenopathy (Ensemble_Veto (BERT: 0.79))]--> lymphadenopathy
+Article 91
+No relations found.
+Article 92
+  cemia --[cemia is a symptom of hypoglycemia (Ensemble_Veto (BERT: 1.00))]--> hypoglycemia
+  ypog --[ypog is a symptom of hypoglycemia (Ensemble_Veto (BERT: 1.00))]--> hypoglycemia
+  glucose --[glucose is a side effect of hypoglycemic (Ensemble_Veto (BERT: 0.88))]--> hypoglycemic
+  glucose --[glucose is a side effect of ypog (Ensemble_Veto (BERT: 1.00))]--> ypog
+  ypog --[ypog is a symptom of hypoglycemic (Ensemble_Veto (BERT: 0.92))]--> hypoglycemic
+Article 93
+No relations found.
+Article 94
+No relations found.
+Article 95
+  overlap --[overlap is a symptom of autoimmune hepatitis (Ensemble_Veto (BERT: 1.00))]--> autoimmune hepatitis
+  overlap --[overlap is a symptom of systemic lupus erythemus overlap syndrome (Ensemble_Veto (BERT: 1.00))]--> systemic lupus erythemus overlap syndrome
+  overlap --[overlap is a symptom of autoimmune disorders (Ensemble_Veto (BERT: 1.00))]--> autoimmune disorders
+  overlap --[overlap is a symptom of autoimmune hepatitis (Ensemble_Veto (BERT: 1.00))]--> autoimmune hepatitis
+  overlap --[overlap is a symptom of systemic lupus erythematosus (Ensemble_Veto (BERT: 1.00))]--> systemic lupus erythematosus
+  rash --[rash is a symptom of rashes (Ensemble_Veto (BERT: 1.00))]--> rashes
+  weight loss --[weight loss is a symptom of rashes (Ensemble_Veto (BERT: 1.00))]--> rashes
+  cold --[cold is a symptom of cold intolerance (Ensemble_Veto (BERT: 1.00))]--> cold intolerance
+  cold --[cold is a symptom of liver injury (Ensemble_Veto (BERT: 1.00))]--> liver injury
+  fatigue --[fatigue is a symptom of cold intolerance (Ensemble_Veto (BERT: 1.00))]--> cold intolerance
+  fatigue --[fatigue is a symptom of liver injury (Ensemble_Veto (BERT: 1.00))]--> liver injury
+  liver --[liver is a symptom of cold intolerance (Ensemble_Veto (BERT: 1.00))]--> cold intolerance
+  liver --[liver is a symptom of liver injury (Ensemble_Veto (BERT: 1.00))]--> liver injury
+  of appetite --[of appetite is a symptom of cold intolerance (Ensemble_Veto (BERT: 1.00))]--> cold intolerance
+  of appetite --[of appetite is a symptom of liver injury (Ensemble_Veto (BERT: 1.00))]--> liver injury
+  alanine --[alanine causes skin rash (Ensemble_Veto (BERT: 0.42))]--> skin rash
+  alanine --[alanine is a side effect of liver (Ensemble_Veto (BERT: 0.47))]--> liver
+  liver --[liver is a symptom of cytopenia (Ensemble_Veto (BERT: 1.00))]--> cytopenia
+  liver --[liver is a symptom of hematologic abnormalities (Ensemble_Veto (BERT: 1.00))]--> hematologic abnormalities
+  liver --[liver is a symptom of skin rash (Ensemble_Veto (BERT: 0.96))]--> skin rash
+  rash --[rash is a symptom of cytopenia (Ensemble_Veto (BERT: 1.00))]--> cytopenia
+  rash --[rash is a symptom of hematologic abnormalities (Ensemble_Veto (BERT: 1.00))]--> hematologic abnormalities
+  rash --[rash is a symptom of skin rash (Ensemble_Veto (BERT: 1.00))]--> skin rash
+  bicyclol --[bicyclol treats liver injury (Ensemble_Veto (BERT: 0.99))]--> liver injury
+  bicyclol --[bicyclol treats liver (Ensemble_Veto (BERT: 0.99))]--> liver
+  glycyrrhizin --[glycyrrhizin treats liver injury (Ensemble_Veto (BERT: 0.99))]--> liver injury
+  glycyrrhizin --[glycyrrhizin treats liver (Ensemble_Veto (BERT: 0.99))]--> liver
+  inosine --[inosine treats liver injury (Ensemble_Veto (BERT: 1.00))]--> liver injury
+  inosine --[inosine treats liver (Ensemble_Veto (BERT: 1.00))]--> liver
+  magnesium --[magnesium treats liver injury (Ensemble_Veto (BERT: 0.97))]--> liver injury
+  magnesium --[magnesium treats liver (Ensemble_Veto (BERT: 0.93))]--> liver
+  silibinin --[silibinin treats liver injury (Ensemble_Veto (BERT: 1.00))]--> liver injury
+  silibinin --[silibinin treats liver (Ensemble_Veto (BERT: 1.00))]--> liver
+  liver --[liver is a symptom of liver injury (Ensemble_Veto (BERT: 1.00))]--> liver injury
+  leflunomide --[leflunomide treats liver (Ensemble_Veto (BERT: 0.98))]--> liver
+  prednisone --[prednisone treats liver (Ensemble_Veto (BERT: 0.98))]--> liver
+  leflunomide --[leflunomide treats sle disease (Ensemble_Veto (BERT: 1.00))]--> sle disease
+  leflunomide --[leflunomide treats overlap (Ensemble_Veto (BERT: 0.99))]--> overlap
+Article 96
+No relations found.
+Article 97
+  cushingoid features --[cushingoid features is a symptom of cushingoid (Ensemble_Veto (BERT: 1.00))]--> cushingoid
+  cushingoid features --[cushingoid features is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+  cushingoid features --[cushingoid features is a symptom of stature (Ensemble_Veto (BERT: 0.96))]--> stature
+  discomfort --[discomfort is a symptom of cushingoid (Ensemble_Veto (BERT: 1.00))]--> cushingoid
+  discomfort --[discomfort is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+  discomfort --[discomfort is a symptom of stature (Ensemble_Veto (BERT: 0.98))]--> stature
+  egaly --[egaly is a symptom of cushingoid (Ensemble_Veto (BERT: 1.00))]--> cushingoid
+  egaly --[egaly is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+  egaly --[egaly is a symptom of stature (Ensemble_Veto (BERT: 1.00))]--> stature
+  patom --[patom is a symptom of cushingoid (Ensemble_Veto (BERT: 1.00))]--> cushingoid
+  patom --[patom is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+  patom --[patom is a symptom of stature (Ensemble_Veto (BERT: 1.00))]--> stature
+  short stature --[short stature is a symptom of cushingoid (Ensemble_Veto (BERT: 0.99))]--> cushingoid
+  short stature --[short stature is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+  short stature --[short stature is a symptom of stature (Ensemble_Veto (BERT: 1.00))]--> stature
+  egaly --[egaly is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+  gen accumulation --[gen accumulation is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+  patom --[patom is a symptom of hepatomegaly (Ensemble_Veto (BERT: 1.00))]--> hepatomegaly
+Article 98
+  bronch --[bronch is a symptom of fibrosis (Ensemble_Veto (BERT: 1.00))]--> fibrosis
+  bronch --[bronch is a symptom of inflammation (Ensemble_Veto (BERT: 0.99))]--> inflammation
+  bronch --[bronch is a symptom of obstructive lung disease (Ensemble_Veto (BERT: 1.00))]--> obstructive lung disease
+  bronch --[bronch is a symptom of respiratory infection (Ensemble_Veto (BERT: 0.78))]--> respiratory infection
+Article 99
+  inflammatory --[inflammatory is a symptom of autoinflammatory syndromes (Ensemble_Veto (BERT: 1.00))]--> autoinflammatory syndromes
+  inflammatory --[inflammatory is a symptom of autoinflammatory syndromes (Ensemble_Veto (BERT: 1.00))]--> autoinflammatory syndromes
+  inflammatory --[inflammatory is a symptom of systemic autoinflammatory disorders (Ensemble_Veto (BERT: 1.00))]--> systemic autoinflammatory disorders
+  caps --[caps causes cryopyrin-associated periodic syndromes (Ensemble_Veto (BERT: 0.88))]--> cryopyrin-associated periodic syndromes
+  caps --[caps causes multifactorial autoinflammatory diseases (Ensemble_Veto (BERT: 0.96))]--> multifactorial autoinflammatory diseases
+  caps --[caps causes schnitzler syndrome (Ensemble_Veto (BERT: 0.48))]--> schnitzler syndrome
+  caps --[caps causes inflammatory (Ensemble_Veto (BERT: 0.52))]--> inflammatory
+  inflammatory --[inflammatory is a symptom of cryopyrin-associated periodic syndromes (Ensemble_Veto (BERT: 1.00))]--> cryopyrin-associated periodic syndromes
+  inflammatory --[inflammatory is a symptom of multifactorial autoinflammatory diseases (Ensemble_Veto (BERT: 1.00))]--> multifactorial autoinflammatory diseases
+  inflammatory --[inflammatory is a symptom of schnitzler syndrome (Ensemble_Veto (BERT: 1.00))]--> schnitzler syndrome
+Article 100
+  treatments --[treatments treats fever (Ensemble_Veto (BERT: 0.48))]--> fever
+  fever --[fever is a symptom of adenitis (Ensemble_Veto (BERT: 1.00))]--> adenitis
+  fever --[fever is a symptom of aphthous stomatitis (Ensemble_Veto (BERT: 1.00))]--> aphthous stomatitis
+  fever --[fever is a symptom of pharyngitis (Ensemble_Veto (BERT: 1.00))]--> pharyngitis
+  fever --[fever is a symptom of adenitis (Ensemble_Veto (BERT: 1.00))]--> adenitis
+  fever --[fever is a symptom of aphthous stomatitis (Ensemble_Veto (BERT: 1.00))]--> aphthous stomatitis
+  fever --[fever is a symptom of pfapa (Ensemble_Veto (BERT: 1.00))]--> pfapa
+  fever --[fever is a symptom of pharyngitis (Ensemble_Veto (BERT: 1.00))]--> pharyngitis
+  tonsillectomy --[tonsillectomy treats pfapa (Ensemble_Veto (BERT: 0.76))]--> pfapa
